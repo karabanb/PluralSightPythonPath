@@ -31,4 +31,8 @@ print(students)
 students.append("Tola")  # adding elements
 print(students)
 
+del students[3]  # deleting element 'Tola'
+
 len(students)  # number of elements
+
+
