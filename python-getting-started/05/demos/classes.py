@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 students = []
 
 
@@ -35,16 +34,3 @@ class HighSchoolStudent(Student):
 
 james = HighSchoolStudent("james")
 print(james.get_name_capitalize())
-=======
-class Student:
-    pass
-
-
-student = Student()
-
-print(student)
-
-new_student = Student()
-
-print(new_student)
->>>>>>> adding content of pluralsight
